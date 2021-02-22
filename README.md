@@ -16,7 +16,7 @@
   ##### Why does it matter?
   > Short explenation why it is important and what does it mean
 
-#### 1.3 Is a proxy contract?
+#### 1.3 It is a proxy contract?
   * [ ] `YES`
   * [ ] `NO`
  
