@@ -71,6 +71,8 @@
   * [ ] `DEX`
   * [ ] `CEX`
   * [ ] `TornadoCash`
+  * [ ] `External address`
+  * [ ] `Contract address
   ##### Why does it matter?
   > Short explenation why it is important and what does it mean
 
