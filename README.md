@@ -35,7 +35,7 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Function `mint` is part of `ERC20` standard and not always when the contract use it, it is bad sign, however it should always be checked manually to mitigate potential risk. Using this function in malicious manner might lead to increasing supply "on demand" by the contract owner.
 
 #### 1.6 Allow burning?
   * [ ] `YES`
