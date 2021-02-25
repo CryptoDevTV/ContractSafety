@@ -41,13 +41,13 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Burning tokens also has two side and should always be checked manually to mitigate potential risk. Using this function in malicious manner might lead to decreasing balance on addresses.
 
 #### 1.7 Is pauseable?
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Pausable means that the contract might be paused by the contract owner. It might be caused by security reasons (someone is using contract in unwanted way - diluting it from money) but it might be caused by malicious behaviour of contract owner (when he is trying to block selling for other except him). This function if is present, should always be checked manually to mitigate potential risk.
 
 #### 1.8 Is some kind of whitelist present?
   * [ ] `YES`
