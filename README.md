@@ -102,13 +102,13 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Availbility on DEXes like Uniswap is very important because confirms project liquidity and also means that someone have to put some part of his eths to provide liquidity on automated market maker service like DEX (Uniswap, Sushiswap etc.).
 
 #### 3.2 Is locked (TeamFinance, UniCrypt)?
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Locked liquidity means that until some defined time nobody would be able to remove provided liquidity from DEX. It is worth to mention that if some token is available to trade on single DEX only, removing liquidity means that trades will not be possible anymore (token holders are left with worthless tokens).
 
 ### 4. Holders:
 
