@@ -65,7 +65,7 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Generated contract means that contract owner do not code it from scratch, it might mean that the owner do not have needed skills to deal it with his own. There are situation that generated contracts are good for some cases but definietly should not be used for collecting eths from community.
  
 #### 1.11 How contract was funded (DEX, CEX, TornadoCash etc.)?
   * [ ] `DEX`
@@ -74,7 +74,7 @@
   * [ ] `External address`
   * [ ] `Contract address`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Especially, from where contract owner received eths needed for contract deployment. If from CEX it might be possible to track him in case of rug pull, for example if contract owner address received funds from Tornado Cash (flow anonymizer) it might means that owner want to stay as anonymous as possbile (also for tracking in case of rug pull).
 
 ### 2. Owner:
 
