@@ -1,4 +1,4 @@
-# ERC20ContractVerification
+# ContractSafety
 
 ## Checklist
 
