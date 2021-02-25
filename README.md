@@ -116,10 +116,10 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > If Uniswap or other DEX is main hodler it mainly means that nobody is able to dump or pump the price. 
 
 #### 4.2 Is owner a main holder?
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > When there is one main hodler (and the contract owner or some external address is) it is very likely that he will try to manipulate the price and for example sell holded tokens cheaper to dump the price and earn some eths.
