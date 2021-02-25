@@ -53,13 +53,13 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Some times contract owners have ability to stand out some addresses (for example if contrac owner pause the contract, those addresses would be still able to trade), it is important to check the contract source code for such malicious features. Should always be checked manually to mitigate potential risk.
 
 #### 1.9 Is some kind of blacklist present?
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Some times contract owners have ability to stand out some addresses (for example if some addresses would not be able to trade), it is important to check the contract source code for such malicious features. Should always be checked manually to mitigate potential risk.
 
 #### 1.10 It is generated contract?
   * [ ] `YES`
