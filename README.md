@@ -79,22 +79,22 @@
 ### 2. Owner:
 
 #### 2.1 It is a contract or external address?
-  * [ ] `contract`
-  * [ ] `external address (multisig, dao)`
+  * [ ] `contract (multisig, dao)`
+  * [ ] `external address`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > If the contract owner is also a contract, it might mean that some kind of decentralized management is used for this contract (still needs some manual checks). External address always mean centralized management and should not be considered as a good practice.
 
 #### 2.2 Is deployer of this contract?
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > If the contract owner address is different than deployer address it might mean that contract development was outsource outside the project. It is hard to define if it is good ar bad approach, this is information should be taken into account during further project research.
 
 #### 2.3 Are management keys burnt?
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > If private keys to the contract owner address are burnt no one could change anything in the contract and no one is able to call functions from this contract.
 
 ### 3. Liquidity:
 
