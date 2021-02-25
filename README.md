@@ -8,7 +8,7 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Smart contracts are stored on Ethereum blockchain in bytecode (mainly for optimization reasons) so to be sure that the source code of the contract stored on blockchain is the same as the one published on GitHub or on project page, project team should also verifiy it on Etherscan by providing the raw source code. Etherscan than compares the bytecode of this provided source code with bytecode stored on Ethereum blockchain.
 
 #### 1.2 Is ERC-20 compatible?
   * [ ] `YES`
