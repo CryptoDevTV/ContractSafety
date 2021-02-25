@@ -29,7 +29,7 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > Renounce ownership is a good and common pattern for term called "burning keys". When contract owner is able to do this it is a good sign that he will do it in the future, after that no one will be able to interference with this how this smart contract works and no one will be able to call functions with `onlyOwner` modifier.
  
 #### 1.5 Allow minting?
   * [ ] `YES`
