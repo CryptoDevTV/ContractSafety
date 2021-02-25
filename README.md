@@ -14,7 +14,7 @@
   * [ ] `YES`
   * [ ] `NO`
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > If the contract under reviewed is the token contract (not staking contract, dao etc.) it should be compatible with `ERC-20` standard to provide full functionality while using it.
 
 #### 1.3 It is a proxy contract?
   * [ ] `YES`
@@ -23,7 +23,7 @@
   ##### If yes, what is the address of the current main contract?
   
   ##### Why does it matter?
-  > Short explenation why it is important and what does it mean
+  > If the main contract is a proxy contract, its owner is able change contract functionality without changing contract address. While proxy contract is discovered during the review it is obligatory to also find the current contract behind this proxy.
   
 #### 1.4 Allow for renounce ownership?
   * [ ] `YES`
