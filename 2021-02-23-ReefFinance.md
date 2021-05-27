@@ -119,11 +119,11 @@ There is no list with blocked addresses in smart contract.
   * [ ] `YES`
   * [x] `NO`
 
-> UniCrypt: [Not locked ETH/REEF](https://unicrypt.network/amm/uni/pair/0xd11ad84d720a5e7fa11c8412af6c1caa815a436d)
+> UniCrypt: [Not locked ETH/REEF](https://app.unicrypt.network/amm/uni-v2/token/0xd11ad84d720a5e7fa11c8412af6c1caa815a436d)
 
-> UniCrypt: [Not locked USDT/REEF](https://unicrypt.network/amm/uni/pair/0xea02e0f8f470de1107cb336f827c4192117574bb)
+> UniCrypt: [Not locked USDT/REEF](https://app.unicrypt.network/amm/uni-v2/token/0xea02e0f8f470de1107cb336f827c4192117574bb)
 
-> UniCrypt: [Not locked USDC/REEF](https://unicrypt.network/amm/uni/pair/0x67531b6a965d3969286be30dc06f1eccf0311de8)
+> UniCrypt: [Not locked USDC/REEF](https://app.unicrypt.network/amm/uni-v2/token/0x67531b6a965d3969286be30dc06f1eccf0311de8)
 
 > Team Finance: [Not locked ETH/REEF](https://team.finance/view-coin/0xd11ad84d720a5e7fa11c8412af6c1caa815a436d)
 
